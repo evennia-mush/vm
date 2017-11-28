@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+git --work-tree=/var/telnet/staging --git-dir=/var/core/staging.git checkout -f
+

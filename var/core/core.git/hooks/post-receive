@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+git --work-tree=/var/telnet/thecryingbeard.com --git-dir=/var/core/core.git checkout -f
+
